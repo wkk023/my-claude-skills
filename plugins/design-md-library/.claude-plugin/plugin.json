@@ -1,0 +1,7 @@
+{
+  "name": "design-md-library",
+  "version": "1.0.0",
+  "description": "74 DESIGN.md design systems (Stripe, Linear, Apple...) to build in the style of.",
+  "author": { "name": "wkk023" },
+  "license": "MIT"
+}

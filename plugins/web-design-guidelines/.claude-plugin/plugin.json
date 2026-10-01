@@ -1,0 +1,7 @@
+{
+  "name": "web-design-guidelines",
+  "version": "1.0.0",
+  "description": "Audit UI code against Vercel's Web Interface Guidelines.",
+  "author": { "name": "wkk023" },
+  "license": "MIT"
+}

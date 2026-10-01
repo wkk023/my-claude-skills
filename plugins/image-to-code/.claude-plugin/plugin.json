@@ -1,0 +1,7 @@
+{
+  "name": "image-to-code",
+  "version": "1.0.0",
+  "description": "Image-first workflow: generate section mockups, analyze them, then build to match.",
+  "author": { "name": "wkk023" },
+  "license": "MIT"
+}

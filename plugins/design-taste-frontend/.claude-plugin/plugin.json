@@ -1,0 +1,7 @@
+{
+  "name": "design-taste-frontend",
+  "version": "1.0.0",
+  "description": "Anti-slop frontend rules for landing pages, portfolios and redesigns.",
+  "author": { "name": "wkk023" },
+  "license": "MIT"
+}

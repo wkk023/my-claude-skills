@@ -1,0 +1,12 @@
+{
+  "name": "my-claude-skills",
+  "owner": { "name": "wkk023" },
+  "metadata": { "description": "wkk023's Claude Code skills. One plugin per skill: install only what you need." },
+  "plugins": [
+    { "name": "design-taste-frontend", "source": "./plugins/design-taste-frontend", "description": "Anti-slop frontend rules for landing pages, portfolios and redesigns." },
+    { "name": "web-design-guidelines", "source": "./plugins/web-design-guidelines", "description": "Audit UI code against Vercel's Web Interface Guidelines." },
+    { "name": "image-to-code", "source": "./plugins/image-to-code", "description": "Image-first workflow: generate section mockups, analyze them, then build to match." },
+    { "name": "design-md-library", "source": "./plugins/design-md-library", "description": "74 DESIGN.md design systems (Stripe, Linear, Apple...) to build in the style of." },
+    { "name": "playwright-cli", "source": "./plugins/playwright-cli", "description": "Drive a real browser: screenshots, dark mode, mobile, console errors, tests." }
+  ]
+}

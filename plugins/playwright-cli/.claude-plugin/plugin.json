@@ -1,0 +1,7 @@
+{
+  "name": "playwright-cli",
+  "version": "1.0.0",
+  "description": "Drive a real browser: screenshots, dark mode, mobile, console errors, tests.",
+  "author": { "name": "wkk023" },
+  "license": "Apache-2.0"
+}
